@@ -21,7 +21,7 @@ Course Instructors
 Teaching Assistants
 =========================
 * Wei-Jia Wang - School of Information and Software, UESTC
-* Qi-Da Li - School of ,UESTC
+* Qi-Da Li - School of Mathematical Science, UESTC
 
 .. toctree::
 
