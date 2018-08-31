@@ -1,6 +1,10 @@
 **************************
-Course Introduction  
+Course Introduction
 ************************** 
+
+* Fall 2018
+
+* Core course for undergraduates in UESTC 
    
 Course Mission  
 =========================
@@ -10,10 +14,27 @@ Course Target
 =========================
 ...xxx...
 
-Course Teaching Team
+Course Instructors
 =========================
+* Dr. Yong Tang - School of Computer Science and Engineering, School of Economics and Management, UESTC
 
-Dr. Yong Tang
+Teaching Assistants
+=========================
+* Wei-Jia Wang - School of Information and Software, UESTC
+* Qi-Da Li - School of ,UESTC
 
-TA:
-Weijia Wang; Qida Li
+.. toctree::
+
+   C01
+   C02
+   C03
+   C04
+   C05
+   C06
+   C07
+   C08
+   C09
+   C10
+   C11
+   C12
+   C13
