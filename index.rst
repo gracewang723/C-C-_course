@@ -6,13 +6,13 @@ Course Introduction
 
 * Core course for undergraduates in UESTC 
    
-Course Mission  
+Course Video  
 =========================
-...xxx...
+`C/C++ <http://icc.hep.com.cn/loadShowHome.action?courseInfoId=5000001564&tdsourcetag=s_pctim_aiomsg>`__
 
-Course Target
+Course Method
 =========================
-...xxx...
+
 
 Course Instructors
 =========================
@@ -32,4 +32,3 @@ Teaching Assistants
    C04
    C05
    C06
-
