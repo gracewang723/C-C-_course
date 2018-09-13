@@ -24,6 +24,15 @@ Teaching Assistants
 * Qi-Da Li - School of Mathematical Science, UESTC
 * Yan-Wei Li - School of Computer Science and Engineering
 
+Course Progress
+=========================
+* 2018.9.18:
+
+* 2018.9.25:
+
+
+
+
 .. toctree::
 
    C01
