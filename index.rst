@@ -12,7 +12,7 @@ Course Video
 
 Course Method
 =========================
-
+* 
 
 Course Instructors
 =========================
@@ -26,7 +26,7 @@ Teaching Assistants
 
 Course Progress
 =========================
-* 2018.9.18:
+* 2018.9.18: The first class. You are supposed to watch the teaching video before class, know the basic structure of C code, and the input and output way of C language.
 
 
 
