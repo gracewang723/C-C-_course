@@ -26,7 +26,7 @@ Teaching Assistants
 
 Course Progress
 =========================
-* 2018.9.18: The first class. You are supposed to watch the teaching video before class, know the basic structure of C code, and the input and output way of C language.
+* 2018.9.18: The first class. You are supposed to watch the teaching video before class, in order to know the basic structure of C code, and the input and output way of C language.
 
 
 
