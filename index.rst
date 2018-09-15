@@ -12,7 +12,7 @@ Course Video
 
 Course Method
 =========================
-* 
+* Teaching method of this class is different from others. In the class teacher will not do too many lectures and will only emphasis on important knowledge. This means that everyone should watch course video on the Internet before class to learn basic grammar. Otherwise it will be hard to finish class exercise. On the class, after the teacher explains key contents, it's time for you to practice on the computer. You can ask questions to the teaching assistant at any time when you find problems. You can read questions in advance on the website, and you'd better think about the way to solve the problem before class, so as to improve the efficiency.
 
 Course Instructors
 =========================
