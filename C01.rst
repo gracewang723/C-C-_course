@@ -8,8 +8,8 @@ Exercise
 1.Try to print the string "hello world" on the screen.
 
 2.Use printf function to output 5X5 square which is consisted of + (asterisk)
-output examples:  
-aaaaa
+output  examples:  
++++++
 +++++  
 +++++  
 +++++  
