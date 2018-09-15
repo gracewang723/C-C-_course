@@ -9,7 +9,7 @@ Exercise
 
 2.Use printf function to output 5X5 square which is consisted of + (asterisk)
 output examples:  
-+++++  
+aaaaa
 +++++  
 +++++  
 +++++  
