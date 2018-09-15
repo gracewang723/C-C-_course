@@ -9,11 +9,16 @@ Exercise
 
 2.Use printf function to output 5X5 square which is consisted of +     
 output examples:
-+++++
-+++++  
-+++++  
-+++++  
-+++++
+
+  +++++
+
+  +++++  
+
+  +++++  
+
+  +++++  
+
+  +++++
 
 3.Write a poem and use printf function to print it out.
 
