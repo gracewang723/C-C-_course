@@ -13,7 +13,7 @@ output examples:
 +++++  
 +++++  
 +++++  
-+++++
++++++  
 
 3.Write a poem and use printf function to print it out.
 
