@@ -2,7 +2,7 @@
 C01 Introduction of Programming
 ************************************
 
-Exer   cise
+Exercise
 =========================
 
 1.Try to print the string "hello world" on the screen.
