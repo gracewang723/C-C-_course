@@ -16,7 +16,7 @@ Class location
 
 School Calendar
 =========================
-`click <http://www.jwc.uestc.edu.cn/web/News!view.action?id=1224>`__
+`Click <http://www.jwc.uestc.edu.cn/web/News!view.action?id=1224>`__
 
 Course Method
 =========================
