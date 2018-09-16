@@ -2,7 +2,7 @@
 C06 Function
 ******************************
 
-Homework
+Exercise
 =========================
 
 Sample Code
