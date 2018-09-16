@@ -5,5 +5,5 @@ C02 Basic Data Types and Operations
 Homework
 =========================
 
-Code 
+Sample Code
 =========================
