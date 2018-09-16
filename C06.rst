@@ -5,5 +5,5 @@ C06 Function
 Homework
 =========================
 
-Code 
+Sample Code
 =========================
