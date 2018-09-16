@@ -5,5 +5,5 @@ C05 Pointer
 Homework
 =========================
 
-Code 
+Sample Code
 =========================
