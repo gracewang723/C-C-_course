@@ -2,7 +2,7 @@
 C04 Arrays and Structures
 ******************************
 
-Homework
+Exercise
 =========================
 
 Sample Code 
