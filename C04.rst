@@ -5,5 +5,5 @@ C04 Arrays and Structures
 Homework
 =========================
 
-Code 
+Sample Code 
 =========================
