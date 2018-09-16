@@ -30,8 +30,5 @@ input: 2 5
 
 output: 7
 
-Homework
-=========================
-
-Code 
+Sample Code 
 =========================
