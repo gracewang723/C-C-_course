@@ -2,7 +2,7 @@
 C02 Basic Data Types and Operations
 ******************************
 
-Homework
+Exercise
 =========================
 
 Sample Code
