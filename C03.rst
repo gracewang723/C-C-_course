@@ -2,7 +2,7 @@
 C03 Control Statement
 ******************************
 
-Homework
+Exercise
 =========================
 
 Sample Code
