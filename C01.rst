@@ -25,7 +25,9 @@ Exercise
 4.Import math.h to realize the function of getting absolute value of a number.
 
 5.Use keyboard to input two integers a and b. Calculate their sum and then output the result on the screen. For example:
+
 input: 2 5
+
 output: 7
 
 Homework
