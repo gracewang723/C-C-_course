@@ -2,7 +2,7 @@
 C05 Pointer
 ******************************
 
-Homework
+Exercise
 =========================
 
 Sample Code
