@@ -5,5 +5,5 @@ C03 Control Statement
 Homework
 =========================
 
-Code 
+Sample Code
 =========================
