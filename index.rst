@@ -12,7 +12,7 @@ Course Video
 
 Class location
 =========================
-* Main building area A2 room 412
+* Room 412, Main building area A2
 
 School Calendar
 =========================
