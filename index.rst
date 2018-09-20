@@ -26,7 +26,7 @@ Teaching Assistants
 =========================
 * Wei-Jia Wang - School of Information and Software, UESTC
 * Qi-Da Li - School of Mathematical Science, UESTC
-* Yan-Wei Li - School of Computer Science and Engineering
+* Yan-Wei Li - School of Computer Science and Engineering, UESTC
 
 Course Progress
 =========================
