@@ -8,7 +8,7 @@ Course Introduction
    
 Course Video  
 =========================
-`C/C++ <http://icc.hep.com.cn/loadShowHome.action?courseInfoId=5000001564&tdsourcetag=s_pctim_aiomsg>`__
+`C/C++ <http://icc.hep.com.cn/loadShowHome.action?courseInfoId=5000001625>`__
 
 Class location
 =========================
