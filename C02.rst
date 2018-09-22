@@ -4,6 +4,18 @@ C02 Basic Data Types and Operations
 
 Exercise
 =========================
+* 1.Code with operator “++” and “--“  to watch their performance. E.g: int a = 5; int b = a++;int c = ++a;  Print the values of variable “a” ,“b” and “c”;
+* 2.Code to implement data type conversion. Print the result. E.g: float f  = 1.98; int a = f; printf(“a = %d\n”,a);
+* 3.Input a capital letter from your keyboard via function “getchar()” ,change it into lowercase and print it via function “putchar()”;
+* 4.There are three ways to deposit your money into a bank. 1) annual interest of rate r1  = 0.36%, keep it for one year. 2) AIR r2 = 2.225%, keep it for one year. 3) AIR = 1.98%, deposit it twice for a year.Calculate your money after you keep it for a year in three ways.
+* 5.Input a float number , round it and print it;
+* 6.Input 3 integers, they are the lengths of a triangle’s sides and print its area.
+* 7.The radius of a circle is r . Calculate its perimeter,area.
+
+  The height of cylinder is h,and r is its radius.Calculate its volume.
+
+  The radius of a ball is r.Calculate its surface area and its volume. All of the results keep two decimals.
+* 8.Encrypt the word “China”. The rule of encryption is that change every letter into its four after letter in the alphabet. E.g: A->E,B->F; Print the result;
 
 Sample Code
 =========================
