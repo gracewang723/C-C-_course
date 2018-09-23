@@ -6,7 +6,7 @@ Exercise
 =========================
 * 1.Coding with operator “++” and “--”,and analyze their difference.
 
-  \E.g: int a = 5; int b = a++;int c = ++a; Print the values of variable “a” ,“b” and “c”;
+\E.g: int a = 5; int b = a++;int c = ++a; Print the values of variable “a” ,“b” and “c”;
 
 * 2.Code to implement data type conversion. Print the result.
 
