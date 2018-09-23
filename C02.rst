@@ -18,7 +18,7 @@ Exercise
 
   AIR = 1.98%, deposit it twice for a year.
 
-Calculate your money after saving it for a year in all three methods.
+  Calculate your money after saving it for a year in all three methods.
 
 * 5.Input a float number , round it and print it;
 
@@ -26,12 +26,12 @@ Calculate your money after saving it for a year in all three methods.
 
 * 7.The radius of a circle is r . Calculate its perimeter and area.
 
-  The height of cylinder is h,and r is its radius.Calculate its volume.
+    The height of cylinder is h,and r is its radius.Calculate its volume.
 
-  The radius of a ball is r.Calculate its surface area and its volume. All of the results keep two decimals.
+    The radius of a ball is r.Calculate its surface area and its volume. All of the results keep two decimals.
 
 * 8.Encrypt the word “China”. Encryption rule is replacing each letter with the back four letters of themselves.
-E.g: A->E,B->F; Print the result;
+    E.g: A->E,B->F; Print the result;
 
 Sample Code
 =========================
