@@ -10,10 +10,14 @@ Exercise
 
 * 3.Input a capital letter from your keyboard via function “getchar()” ,change it into lowercase and print it via function “putchar()”;
 
-* 4.There are three ways to deposit your money into a bank. 
- annual interest of rate r1 = 0.36%, keep it for one year; 
- AIR r2 = 2.225%, keep it for one year; 
- AIR = 1.98%, deposit it twice for a year.
+* 4.There are three ways to deposit your money into a bank.
+
+annual interest of rate r1 = 0.36%, keep it for one year;
+
+AIR r2 = 2.225%, keep it for one year;
+
+AIR = 1.98%, deposit it twice for a year.
+
 Calculate your money after saving it for a year in all three methods.
 
 * 5.Input a float number , round it and print it;
