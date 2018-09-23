@@ -8,7 +8,9 @@ Exercise
 
   E.g: int a = 5; int b = a++;int c = ++a; Print the values of variable “a” ,“b” and “c”;
 
-* 2.Code to implement data type conversion. Print the result.E.g: float f = 1.98; int a = f; printf(“a = %d\\n”,a);
+* 2.Code to implement data type conversion. Print the result.
+
+  E.g: float f = 1.98; int a = f; printf(“a = %d\\n”,a);
 
 * 3.Input a capital letter from your keyboard via function “getchar()” ,change it into lowercase and print it via function “putchar()”;
 
