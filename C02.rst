@@ -16,11 +16,11 @@ E.g: float f = 1.98; int a = f; printf(“a = %d\\n”,a);
 
 4.There are three ways to deposit your money into a bank.
 
-1)annual interest of rate r1 = 0.36%, keep it for one year;
+1)Annual Interest Rate r1 = 0.36%, keep it for one year;
 
-2)AIR r2 = 2.225%, keep it for one year;
+2)Annual Interest Rate r2 = 2.225%, keep it for one year;
 
-3)AIR = 1.98%, deposit it twice for a year.
+3)Annual Interest Rate r3 = 1.98%, deposit it twice for a year.
 
 Calculate your money after saving it for a year in all three methods.
 
@@ -32,7 +32,7 @@ Calculate your money after saving it for a year in all three methods.
 
 1)The radius of a circle is r . Calculate its perimeter and area.
 
-2)The height of cylinder is h,and r is its radius.Calculate its volume.
+2)The height of a cylinder is h,and r is its radius.Calculate its volume.
 
 3)The radius of a ball is r.Calculate its surface area and its volume. All of the results keep two decimals.
 
