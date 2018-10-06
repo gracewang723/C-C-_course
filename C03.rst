@@ -8,11 +8,11 @@ Exercise
 
 1.Input two integers on the keyboard and output them in order from smallest to largest.
 
-2.Input three side lengths to determine whether a triangle can be formed, If can, print Yes. Otherwise, print No.
+2.Input three side lengths to determine whether a triangle can be formed, Print out 'Yes' or 'No' for judgement.
 
 3.Use keyboard to input three integers a, b and c.Then output the largest number.
 
-4.Solve the quadratic equation with one unknown: Get the solution of a*x*x+b*x+c=0. a,b,c are inputted by the keyboard.
+4.Solve the quadratic equation with one unknown: Get the solution of a*x*x+b*x+c=0. 'a','b','c' are inputted by the keyboard.
 
 If b*b-4*a*c<0, output the imaginary root
 
@@ -40,15 +40,15 @@ If the score belongs to [0,60), output E;
 
 **Loop structure**
 
-1.Input natural number N and calculate the value of 1+2+3+4+……+N
+1.Input a natural number N and calculate the value of 1+2+3+4+……+N
 
-2.Input natural number N. Use loop structure to output all prime numbers which is less than or equal to N. Then count the number of primes and finally output it.
+2.Input a natural number N. Use loop structure to output all prime numbers which is less than or equal to N. Then count the number of primes and finally output it.
 
-3.The school held a fundraising activity.The max number of donations is 100000. When the total amount of donations reaches 100,000 yuan, end this donation. Then count the number of donations, as well as the average number of donations per person. Use for and break statement to realize the function. Each person’s donation is decided by the keyboard input.
+3.The school held a fundraising activity.The limit of donation is 10,000 yuan.When the donation beyounds the limit, put the end to all processes.Then count the donors and the average donation.Use FOR and BREAK statement to realize the function.The donation of each one is decided by the keyboard input.
 
 4.Output a number between 100 and 200 which cannot be divisible by 3.(use the keyword continue)
 
-5.Positive integer arithmetic series, input a1, grade d, and the whole number N. Output a1,a2,a3……aN and the sum.
+5.The sequence of arithmetic positive integers. The first number is a1, the grade is d, and the number of squence is N. Input a1,d and N. Output the whole sequence and the sum.
 
 6.Output all narcissistic number, which is a three-digit number, and the sum of cubes of each digit is equal to the number itself.For example: 153.Because 153=1*1*1+5*5*5+3*3*3
 
