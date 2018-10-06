@@ -4,6 +4,37 @@ C03 Control Statement
 
 Exercise
 =========================
+1.Input two integers on the keyboard and output them in order from smallest to largest.
+
+2.Input three side lengths to determine whether a triangle can be formed, If can, print Yes. Otherwise, print No.
+
+3.Use keyboard to input three integers a, b and c.Then output the largest number.
+
+4.Solve the quadratic equation with one unknown: Get the solution of a*x*x+b*x+c=0. a,b,c are inputted by the keyboard.
+
+If b*b-4*a*c<0, output the imaginary root
+
+if b*b-4*a*c=0, output the only root
+
+if b*b-4*a*c>0, output two real roots
+
+5.Input a character and judge whether it is a capital number.If so, convert it to a lowercase letter. If not, do not convert. Then output the final character.
+
+6.Input one student’s score(range from 0-100),
+
+If the score belongs to [90,100], output A;
+
+If the score belongs to [80,90), output B;
+
+If the score belongs to [70,80), output C;
+
+If the score belongs to [60,70), output D;
+
+If the score belongs to [0,60), output E;
+
+(The switch statement is required)
+
+7.Input a year and judge whether it is a leap year.
 
 Sample Code
 =========================
