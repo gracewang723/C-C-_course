@@ -34,7 +34,7 @@ If the score belongs to [60,70), output D;
 
 If the score belongs to [0,60), output E;
 
-(The switch statement is required)
+(The SWITCH statement is required)
 
 7.Input a year and judge whether it is a leap year.
 
