@@ -42,7 +42,7 @@ If the score belongs to [0,60), output E;
 
 1.Input natural number N and calculate the value of 1+2+3+4+……+N
 
-2.Input natural number N. Use loop structure to output all prime numbers which is less than or equal to N. Count the number of primes, and finally output it.
+2.Input natural number N. Use loop structure to output all prime numbers which is less than or equal to N. Then count the number of primes and finally output it.
 
 3.The school held a fundraising activity.The max number of donations is 100000. When the total amount of donations reaches 100,000 yuan, end this donation. Then count the number of donations, as well as the average number of donations per person. Use for and break statement to realize the function. Each person’s donation is decided by the keyboard input.
 
