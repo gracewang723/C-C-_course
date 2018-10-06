@@ -4,7 +4,7 @@ C03 Control Statement
 
 Exercise
 =========================
-**case structure**
+**Case structure**
 
 1.Input two integers on the keyboard and output them in order from smallest to largest.
 
@@ -37,6 +37,24 @@ If the score belongs to [0,60), output E;
 (The switch statement is required)
 
 7.Input a year and judge whether it is a leap year.
+
+**Loop structure**
+
+1.Input natural number N and calculate the value of 1+2+3+4+……+N
+
+2.Input natural number N. Use loop structure to output all prime numbers which is less than or equal to N. Count the number of primes, and finally output it.
+
+3.The school held a fundraising activity.The max number of donations is 100000. When the total amount of donations reaches 100,000 yuan, end this donation. Then count the number of donations, as well as the average number of donations per person. Use for and break statement to realize the function. Each person’s donation is decided by the keyboard input.
+
+4.Output a number between 100 and 200 which cannot be divisible by 3.(use the keyword continue)
+
+5.Positive integer arithmetic series, input a1, grade d, and the whole number N. Output a1,a2,a3……aN and the sum.
+
+6.Output all narcissistic number, which is a three-digit number, and the sum of cubes of each digit is equal to the number itself.For example: 153.Because 153=1*1*1+5*5*5+3*3*3
+
+7.If a number is equal to the sum of its factors, it is called perfect number. For example: 6=1+2+3. Program to find all completion Numbers within 1000 and output them.
+
+8.Input a positive integer which is not more than 5 digits. Then print it in reverse order. For example: input 123, output 321.
 
 Sample Code
 =========================
