@@ -4,6 +4,31 @@ C04 Arrays and Structures
 
 Exercise
 =========================
+**Array**
+
+1.Define an array A which contain ten integers. Assign i to A[i] and print it reservedly.
+
+2.Pick up the largest integer in array B which contains number 32，89，3，36，98，12，16，90，46，56
+
+3.Use Bubble Sort Algorithm to sort array B.
+
+4.Given two matrix A and B whose dimensions are 3*3. Assign value to them and print them.
+
+5.Assign random value to a matrix A via “rand()” function. Find out the largest integer.
+
+6.Define an array A which contains characters. Print them one by one.
+
+7.Read a line of characters from your keyboard via “gets()” function. Calculate how many words are there in the line.
+
+8.Combine two strings by your own function.(Don’t use “strcat” function in C Library)
+
+
+
+
+
+
+
+
 
 Sample Code 
 =========================
