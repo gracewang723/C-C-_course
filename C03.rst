@@ -4,6 +4,8 @@ C03 Control Statement
 
 Exercise
 =========================
+case structure
+
 1.Input two integers on the keyboard and output them in order from smallest to largest.
 
 2.Input three side lengths to determine whether a triangle can be formed, If can, print Yes. Otherwise, print No.
