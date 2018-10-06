@@ -4,7 +4,7 @@ C03 Control Statement
 
 Exercise
 =========================
-case structure
+**case structure**
 
 1.Input two integers on the keyboard and output them in order from smallest to largest.
 
