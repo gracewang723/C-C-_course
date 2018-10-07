@@ -40,5 +40,3 @@ Calculate your money after saving it for a year in all three methods.
   
 E.g: A->E,B->F; Print the result;
 
-Sample Code
-=========================
