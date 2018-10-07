@@ -4,7 +4,7 @@ C06 Function
 
 Exercise
 =========================
-1.Write the function “max” which returns the greater number among two numbers. Call the “max” function in “main” function.
+1.Write the function “max” which returns to the greater number among two numbers. Call the “max” function in “main” function.
 
 2.Write a function to solve  a quadratic equation: ax^2+bx +c = 0. Call it in “main” function.
 
