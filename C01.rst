@@ -30,6 +30,4 @@ input: 2 5
 
 output: 7
 
-Sample Code 
-=========================
 
