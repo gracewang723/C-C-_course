@@ -4,7 +4,7 @@ C06 Function
 
 Exercise
 =========================
-1.Write function “max” which returns the greater number among two numbers. Call the “max” function in “main” function.
+1.Write the function “max” which returns the greater number among two numbers. Call the “max” function in “main” function.
 
 2.Write a function to solve  a quadratic equation: ax^2+bx +c = 0. Call it in “main” function.
 
@@ -14,9 +14,9 @@ Exercise
 
 5.Write a copy string function whose prototype: void myStrpy(char *str1,char *str2). Copy string str2 to string str1.
 
-6.Write a function whose prototype: deleteChar(char *str1,char ch). This function can remove the character ch in string str1.
+6.Write a function whose prototype is: deleteChar(char *str1,char ch). This function can remove the character ch in string str1.
 
-7.Write a function whose prototype: void merge(char *str1,char *str2) to connect two string str1 and str2 and then sorted the whole string according to dictionary order. (E.g: str1 = “hello”, str2 = “world”, after calling the function, str1 = “dehllloorw”).  Attention: Don’t call the function “strcat” in <string.h> library.
+7.Write a function whose prototype is: void merge(char *str1,char *str2) to connect two string str1 and str2 and then sorted the whole string according to dictionary order. (E.g: str1 = “hello”, str2 = “world”, after calling the function, str1 = “dehllloorw”).  Attention: Don’t use the function “strcat” in <string.h> library.
 
 Sample Code
 =========================
