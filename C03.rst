@@ -56,5 +56,3 @@ If the score belongs to [0,60), output E;
 
 8.Input a positive integer which is not more than 5 digits. Then print it in reverse order. For example: input 123, output 321.
 
-Sample Code
-=========================
