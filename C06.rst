@@ -17,6 +17,3 @@ Exercise
 6.Write a function whose prototype is: deleteChar(char *str1,char ch). This function can remove the character ch in string str1.
 
 7.Write a function whose prototype is: void merge(char *str1,char *str2) to connect two string str1 and str2 and then sorted the whole string according to dictionary order. (E.g: str1 = “hello”, str2 = “world”, after calling the function, str1 = “dehllloorw”).  Attention: Don’t use the function “strcat” in <string.h> library.
-
-Sample Code
-=========================
