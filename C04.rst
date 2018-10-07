@@ -1,5 +1,5 @@
 ******************************
-C04 Arrays and Structures
+C04 Arrays and Struct
 ******************************
 
 Exercise
@@ -12,17 +12,17 @@ Exercise
 
 3.Use Bubble Sort Algorithm to sort array B.
 
-4.Given two matrixes A and B whose dimensions are 3*3. Assign value to them and print them.
+4.Given two matrices A and B whose dimensions are 3*3. Assign value to them and print them.
 
-5.Assign random value to matrix A via “rand()” function. Find out the largest integer.
+5.Assign a random value to the matrix A with "rand()" function. Find out the largest integer.
 
 6.Define an array A which contains characters. Print them one by one.
 
-7.Read a line of characters from your keyboard via “gets()” function. Calculate how many words are there in the line.
+7.Read a line of characters from your keyboard via “gets()” function. Calculate the quantity of words.
 
 8.Combine two strings by your own function.(Don’t use “strcat” function in C Library)
 
-**Structures**
+**Struct**
 
 1.Store a student’s information(including student number,name,gender,address) in a struct. Print the info.
 
