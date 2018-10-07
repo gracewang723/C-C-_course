@@ -16,6 +16,6 @@ Exercise
 
 6.Define a character pointer and enter a string through the gets function. The pointer points to the input string. Count how many uppercase letters, lowercase letters, Numbers, Spaces and other characters are in the string.Output the final results.
 
-7.Define a character pointer, use GETS function to input the string s, the character pointer points to the string s, and then enter the character c, requiring that all of the c characters in s are removed and output the result.
+7.Define a character pointer, use "gets()" function to input the string s, the character pointer points to the string s, and then enter the character c, requiring that all of the c characters in s are removed and output the result.
 
 8.Define a character pointer array, containing five elements: Beijing, Shanghai, Chengdu, Chongqing, Kunming. Output the five city names in lexicographic order.(Use the strcmp function)
