@@ -34,6 +34,7 @@ Course Progress
 * **2018.9.25: The second class. You are supposed to watch the teaching video before class, in order to know the basic data types in C language, the basic operation of data, the conversion rules of basic types in C language and the priority and combination of operations.**
 * **2018.10.9: The third class. You are supposed to watch the teaching video before class, in order to know the case structure in control statements which means that you need to learn IF-ELSE statement, nested use of IF statement and the usage of SWITCH statement.**
 * **2018.10.16: The forth class. You are supposed to watch the teaching video before class, in order to know the loop structure in control statements which means that you need to learn DO-WHILE statement, FOR statement and the usage of loop nested statements.**
+* **2018.10.23: The fifth class. You are supposed to watch the teaching video before class, in order to know .**
 .. toctree::
 
    C01
