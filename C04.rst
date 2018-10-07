@@ -34,5 +34,3 @@ Exercise
 
 5.Define a Date struct. Calculate what day does the day rank in the year. Pay attention to the leap year.
 
-Sample Code 
-=========================
