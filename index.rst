@@ -46,5 +46,3 @@ Course Progress
    C04
    C05
    C06
-   C07
-   C08
