@@ -37,7 +37,7 @@ Course Progress
 * **2018.10.23: The fifth class. You are supposed to watch the teaching video before class, in order to know a new data type, array which is a collection of ordered data and is Mainly used for processing large amounts of similar data**
 * **2018.10.30: The sixth class. You are supposed to watch the teaching video before class, in order to know structure which is a combination of a set of variables, each of which is called an element variable (or member variable).For a variable of a construction type, the focus is on knowing how to access its elements.**
 * **2018.11.06: The seventh class. You are supposed to watch the teaching video before class, in order to know the pointer variable which can be used to represent various data structures and directly access and processing memory address.Pointer is one of the most important part and also one of the most difficult contents in C language**
-
+* **2018.11.13: The eighth class. You are supposed to watch the teaching video before class, in order to understand the the parameter passing and return of the function.The starting point of C programming is based on functions. With functions, we can decompose a larger problem into several small problems. Each small problem is solved by a function, that is, we only consider what to do in higher-level programs, and how to do it in lower-level functions.**
 .. toctree::
 
    C01
@@ -46,3 +46,5 @@ Course Progress
    C04
    C05
    C06
+   C07
+   C08
