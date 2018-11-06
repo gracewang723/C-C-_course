@@ -46,3 +46,7 @@ Course Progress
    C04
    C05
    C06
+   Experiment with C
+   Basic Programming with C++
+   Object Oriented C++
+   Experiment with C
