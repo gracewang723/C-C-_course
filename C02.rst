@@ -1,5 +1,42 @@
-************************************
-C01 基本数据类型及运算
-************************************
+******************************
+C02 Basic Data Types and Operations
+******************************
 
-* 本章主要介绍C程序设计的基础知识，内容包括基本数据类型、常量、变量、基本运算、类型转换及运算的优先级与结合性等。要求学生：了解C语言基本类型的转换规则。理解运算的优先级和结合性。掌握C语言中的基本数据类型，掌握数据的基本运算。
+Exercise
+=========================
+1.Coding with operator “++” and “--”,and analyze their differences.
+
+E.g: int a = 5; int b = a++;int c = ++a; Print the values of variable “a” ,“b” and “c”;
+
+2.Code to implement data type conversion. Print the result.
+
+E.g: float f = 1.98; int a = f; printf(“a = %d\\n”,a);
+
+3.Input a capital letter from your keyboard via function “getchar()” ,change it into lowercase and print it via function “putchar()”;
+
+4.There are three ways to deposit your money into a bank.
+
+1)Annual Interest Rate r1 = 0.36%, keep it for one year;
+
+2)Annual Interest Rate r2 = 2.225%, keep it for one year;
+
+3)Annual Interest Rate r3 = 1.98%, deposit it twice for a year.
+
+Calculate your money after saving it for a year in all three methods.
+
+5.Input a float number , round it and print it;
+
+6.Input 3 integers, each of them means different side of a triangle, calculate and print its area.
+
+7.Float data calculation.
+
+1)The radius of a circle is r . Calculate its perimeter and area.
+
+2)The height of a cylinder is h,and r is its radius.Calculate its volume.
+
+3)The radius of a ball is r.Calculate its surface area and its volume. All of the results keep two decimals.
+
+8.Encrypt the word “China”. Encryption rule is replacing each letter with the back four letters of themselves.
+  
+E.g: A->E,B->F; Print the result;
+

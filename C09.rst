@@ -1,0 +1,19 @@
+******************************
+Object-oriented Programming C++
+******************************
+
+Exercise
+=========================
+1.This is `String grammar  <https://www.cnblogs.com/this-543273659/archive/2011/07/21/2113172.html>`__ .In c language, we use character arrays to represent a string. In c ++, string can be declared to define, such as string str ="hello" or string str ("hello").Please refer to the blog content and practice using string.
+
+2.Define two integer variables a and b, input the values of a and b from the keyboard, and output the calculation results of a+b.
+
+3.The const keyword can modify the variable. At this time, the variable is called constant variable. The value of constant variable cannot be changed in the program.The const can also modify the function parameters. The function parameters modified by const cannot be changed in the function.
+
+4.refer to the blog content and practice the use of reference in programming.
+
+5.Defines three functions to compute the sum of input parameters.A function takes two integer arguments, one takes three integer arguments, and the other takes two floating point arguments.Verify the function in the main function.
+
+6.Define a function, the function receives three integer data, try to give the function a default parameter, two default parameters, three default parameters, and test the effect in the main function.
+
+7.Input an integer n, use the keyword ‘new’ to dynamically apply a segment of memory space that can hold n integers, assign a value to the integer array with the random function, and sort the array with the direct insertion sort algorithm, and output the sorted result.Free the memory of the dynamic application, note the difference between delete p and delete []p.

@@ -1,0 +1,7 @@
+******************************
+Experiment with C
+******************************
+
+Exercise
+=========================
+Please download the lab guide and lab report template in the QQ group file

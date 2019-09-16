@@ -1,1 +1,36 @@
+******************************
+C04 Arrays and Struct
+******************************
+
+Exercise
+=========================
+**Array**
+
+1.Define an array A which contains ten integers. Assign i to A[i] and print it in reversed order.
+
+2.Pick up the largest integer in array B which contains number 32，89，3，36，98，12，16，90，46，56
+
+3.Use Bubble Sort Algorithm to sort array B.
+
+4.Given two matrices A and B whose dimensions are 3*3. Assign value to them and print them.
+
+5.Assign a random value to the matrix A with "rand()" function. Find out the largest integer.
+
+6.Define an array A which contains characters. Print them one by one.
+
+7.Read a line of characters from your keyboard via “gets()” function. Calculate the quantity of words.
+
+8.Combine two strings by your own function.(Don’t use “strcat” function in C Library)
+
+**Struct**
+
+1.Store a student’s information(including student number,name,gender,address) in a struct. Print the info.
+
+2.Define a struct named Student including student number,name and score. Input two information of two students and print the info of the student whose score is higher.
+
+3.Input 5 students’ info including student number,name,scores of Chinese,maths and English. Print the info of the student whose total score is the highest.
+
+4.Define a struct named Student including number,name and score.Store 5 students’ info into an array.Sort the array according to score. Print them in an increasing order.
+
+5.Define a Date struct. Calculate what day does the day rank in the year. Pay attention to the leap year.
 

@@ -1,0 +1,19 @@
+******************************
+Basic Programming in C++
+******************************
+
+Exercise
+=========================
+1.Print “Hello world” in C++ syntax
+
+2.Input two integers A,B and print A+B
+
+3.This is `Const grammar  <https://www.cnblogs.com/chogen/p/4574118.html>`__ . Keyword “const” can modify a variable. For example,“const int A = 2”. A cannot be changed after you define it. Do the following practice. Define a variable A,and try to change the value of A,then see what will happen when you compile.
+
+4.This is `Reference grammar  <https://www.cnblogs.com/gw811/archive/2012/10/20/2732687.html>`__ .Reference is an important concept in C++,try to use reference in your code.
+
+5.“Fucntion overload” is often used when you write you C/C++ code. Define three functions to get sum of some variables.  Each functioin arguments differs from others. Two integers,three integers and two float numbers respectively
+
+6.Define a fuction whose has three arguments. First two arguments has default value and the last one has not. Call this function.
+
+7.Keywords “new” and “delete” is useful in C++ when you allocate memery for variables. Use “new” to define a array whose length is  N. Input N values into the array and sort it via Insertion Sort Algorithm. Then print out the array. Free the memery(Delete the memery you previously allocated)
