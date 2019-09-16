@@ -2,7 +2,11 @@
 Course Introduction
 ************************** 
 
+* Fall 2019
+
 * Fall 2018
+
+* Fall 2017
 
 * Core course for undergraduates in UESTC 
    
@@ -24,10 +28,21 @@ Course Instructors
 
 Teaching Assistants
 =========================
+* Fall 2019
+* Wei-Jia Wang - School of Information and Software, UESTC
+* Jing-Xia Guo - School of Mathematical Science, UESTC
+* 
+
+* Fall 2018
 * Wei-Jia Wang - School of Information and Software, UESTC
 * Qi-Da Li - School of Mathematical Science, UESTC
 * Yan-Wei Li - School of Computer Science and Engineering, UESTC
 * Zi-Yang Jia - Department of Computer Science, Rutgers University
+
+* Fall 2017
+* Kai-Li - School of Computer Science and Engineering, UESTC
+* Xi-Nan Chen - School of Information and Software, UESTC
+* Wei-Jia Wang - School of Information and Software, UESTC
 
 Course Progress
 =========================
