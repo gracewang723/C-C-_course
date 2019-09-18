@@ -12,15 +12,15 @@ Course Introduction
    
 Course Video  
 =========================
-`C/C++ <http://icc.hep.com.cn/loadShowHome.action?courseInfoId=5000001625>`__
+`C/C++ <http://icc.hep.com.cn/loadShowHome.action?courseInfoId=5000002145>`__
 
 Class location
 =========================
 * Room 412, Main building area A2
 
-School Calendar
+Matu Onliine Programming Platform
 =========================
-`Click <http://www.jwc.uestc.edu.cn/web/News!view.action?id=1224>`__
+`Click <http://121.48.165.91:1024/aptat/user>`__
 
 Course Instructors
 =========================
