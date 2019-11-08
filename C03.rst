@@ -6,13 +6,13 @@ Exercise
 =========================
 **Case structure**
 
-1.Input two integers on the keyboard and output them in order from smallest to largest.
+1.Input two integers via the keyboard and output them in order from smallest to largest.
 
-2.Input three side lengths to determine whether a triangle can be formed, Print out 'Yes' or 'No' for judgement.
+2.Input triangle's three length of sides to determine whether this triangle can be formed, Print out 'Yes' or 'No' for judgement.
 
-3.Use keyboard to input three integers a, b and c.Then output the largest number.
+3.Input three integers a, b and c via the keyboard.Then output the largest number.
 
-4.Solve the quadratic equation with one unknown: Get the solution of a*x*x+b*x+c=0. 'a','b','c' are inputted by the keyboard.
+4.Solve the quadratic equation with one unknown: Get the solution of a*x*x+b*x+c=0. 'a','b','c' are input by the keyboard.
 
 If b*b-4*a*c<0, output the imaginary root
 
@@ -20,7 +20,7 @@ if b*b-4*a*c=0, output the only root
 
 if b*b-4*a*c>0, output two real roots
 
-5.Input a character and judge whether it is a capital number.If so, convert it to a lowercase letter. If not, do not convert. Then output the final character.
+5.Input a character and judge whether it is a capital letter.If so, convert it to its lowercase. If not, do not convert. Then output the final character.
 
 6.Input one student’s score(range from 0-100),
 
@@ -44,15 +44,15 @@ If the score belongs to [0,60), output E;
 
 2.Input a natural number N. Use loop structure to output all prime numbers which is less than or equal to N. Then count the number of primes and finally output it.
 
-3.The school held a fundraising activity.The limit of donation is 10,000 yuan.When the donation beyounds the limit, put the end to all processes.Then count the donors and the average donation.Use FOR and BREAK statement to realize the function.The donation of each one is decided by the keyboard input.
+3.The school held a fund raising activity.The limit of donation is 10,000 yuan. When the donation beyonds the limit, stop the donation processes.Then count the donors and the average of donation. Use FOR and BREAK statement to realize the function.The donation of each donor is input via the keyboard.
 
-4.Output a number between 100 and 200 which cannot be divisible by 3.(use the keyword continue)
+4.Output a number between 100 and 200 which cannot be divided by 3.(use the keyword continue)
 
-5.The sequence of arithmetic positive integers. The first number is a1, the grade is d, and the number of squence is N. Input a1,d and N. Output the whole sequence and the sum.
+5.The sequence of arithmetic positive integers. The first number is a1, and the following numbers are all derived from the proceeding number by adding a fixed number d which is called common difference. The number of sequence is N. Input a1,d and N. Output the whole sequence and the sum.
 
 6.Output all narcissistic number, which is a three-digit number, and the sum of cubes of each digit is equal to the number itself.For example: 153.Because 153=1*1*1+5*5*5+3*3*3
 
-7.If a number is equal to the sum of its factors, it is called perfect number. For example: 6=1+2+3. Program to find all completion Numbers within 1000 and output them.
+7.If a number is equal to the sum of its factors, it is called perfect number. For example: 6=1+2+3. Program to find all perfect numbers within 1000 and output them.
 
 8.Input a positive integer which is not more than 5 digits. Then print it in reverse order. For example: input 123, output 321.
 
