@@ -5,7 +5,7 @@ C01 Introduction of Programming
 Exercise
 =========================
 
-1.Try to print the string "hello world" on the screen.
+1.Print the string "hello world".
 
 2.Use printf function to output 5X5 square which is consisted of +     
 \output examples:  
@@ -22,9 +22,9 @@ Exercise
 
 3.Write a poem and use printf function to print it out.
 
-4.Import math.h to realize the function of getting absolute value of a number.
+4.Include header file math.h to realize the function of getting absolute value of a number.
 
-5.Use keyboard to input two integers a and b. Calculate their sum and then output the result on the screen. For example:
+5.Asign two integer variables a and b via the keyboard. Calculate their sum and then output the result on the screen. For example:
 
 input: 2 5
 
