@@ -4,16 +4,17 @@ C06 Function
 
 Exercise
 =========================
-1.Write the function “max” which returns to the greater number among two numbers. Call the “max” function in “main” function.
+1. Write a function “max” which returns the greater number among two numbers. Call the “max” function in “main” function.
 
-2.Write a function to solve  a quadratic equation: ax^2+bx +c = 0. Call it in “main” function.
+2. Write a function to solve  a quadratic equation: ax^2+bx +c = 0. Call it in “main” function.
 
-3.Function prototype: void bubbleSort(int array[],int n). Call it in “main” function and print the sorted array.
+3. Function prototype: void bubbleSort(int array[],int n). Call it in “main” function and print the sorted array.
 
-4.(function recursion) Calculate n! Function Prototype: int fac(int n).
+4. (function recursion) Calculate n! Function Prototype: int fac(int n).
 
-5.Write a copy string function whose prototype: void myStrpy(char *str1,char *str2). Copy string str2 to string str1.
+5. Write a copy string function whose prototype: void myStrcpy(char *str1,char *str2). Copy string str2 to string str1.
 
-6.Write a function whose prototype is: deleteChar(char *str1,char ch). This function can remove the character ch in string str1.
+6. Write a function whose prototype is: deleteChar(char *str1,char ch). This function can remove every character ch in string str1.
 
-7.Write a function whose prototype is: void merge(char *str1,char *str2) to connect two string str1 and str2 and then sorted the whole string according to dictionary order. (E.g: str1 = “hello”, str2 = “world”, after calling the function, str1 = “dehllloorw”).  Attention: Don’t use the function “strcat” in <string.h> library.
+7. Write a function whose prototype is: void merge(char *str1,char *str2) to connect two string str1 and str2 and then sorted the whole string according to dictionary order. (E.g: str1 = “hello”, str2 = “world”, after calling the function, str1 = “dehllloorw”).  Attention: Don’t use the function “strcat” in <string.h> library.
+8. Write a function whose prototype is int* mergeSort(int array1[], int array2[]) to nerge two ordered array. Both array1 and array2 are ordered from small to large. Requiring the function mergeSort to merge these two arrays in the same order. (E.g: array1 = [2,6,7,9,10], array2 = [1,5,8,13], then mergeSort function with input array1 and array2 will return an array pointer, which points to array = [1,2,5,6,7,8,9,10,13].)
