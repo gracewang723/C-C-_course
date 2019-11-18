@@ -4,18 +4,18 @@ C05 Pointer
 
 Exercise
 =========================
-1.Define two integer variables, and define two pointer variables pointing to these two integer variables. Then change the value of the integer through the pointer, and output the value of these two integer variables through the pointer.
+1. Define two integer variables, and define two pointer variables pointing to these two integer variables. Then change the value of the integer through the pointer, and output the value of these two integer variables through the pointer.
 
-2.There is an integer array with 5 elements: 12,34,2,34,56. Now you are supposed to set a pointer pointing to this array. Output values of the elements in the array through the pointer.
+2. There is an integer array with 5 elements: 12,34,2,34,56. Now you are supposed to set a pointer pointing to this array. Output values of the elements in the array through the pointer.
 
-3.Here is a 3 by 3 matrix .The value of each element in the martrix is a random number from 0 to 100. You need to set a pointer to point to the matrix and output the elements in the matrix through the pointer. The output should be in the form of 3 by 3.
+3. Here is a 3 by 3 matrix .The value of each element in the martrix is a random number from 0 to 100. You need to set a pointer to point to the matrix and output the elements in the matrix through the pointer. The output should be in the form of 3 by 3.
 
-4.Student information includes name, student number, and gender. Define a struct variable stu and a struct pointer p, the pointer p points to the struct variable stu, output the student's information through the pointer p.
+4. Student information includes name, student number, and gender. Define a struct variable stu and a struct pointer p, the pointer p points to the struct variable stu, output the student's information through the pointer p.
 
-5.Define a character pointer that points to the string "hello world" and output the string through the pointer.
+5. Define a character pointer that points to the string "hello world" and output the string through the pointer.
 
-6.Define a character pointer and assign a string through the gets function. The pointer points to the input string. Count how many uppercase letters, lowercase letters, numbers, spaces and other characters are in the string.Output the final results.
+6. Define a character pointer and assign a string through the gets function. The pointer points to the input string. Count how many uppercase letters, lowercase letters, numbers, spaces and other characters are in the string.Output the final results.
 
-7.Define a character pointer, use "gets()" function to assign the string s, the character pointer points to the string s, and then enter a character c, requiring that all of the c characters in s are removed. Then output the result.
+7. Define a character pointer, use "gets()" function to assign the string s, the character pointer points to the string s, and then enter a character c, requiring that all of the c characters in s are removed. Then output the result.
 
-8.Define a character pointer array, respectively pointing to five elements: Beijing, Shanghai, Chengdu, Chongqing, Kunming. Output the five city names in lexicographic order.(Use the strcmp function)
+8. Define a character pointer array, respectively pointing to five elements: Beijing, Shanghai, Chengdu, Chongqing, Kunming. Output the five city names in lexicographic order.(Use the strcmp function)
