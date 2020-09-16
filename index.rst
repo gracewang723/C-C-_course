@@ -18,7 +18,7 @@ Course Video
 
 Class location
 =========================
-* Room 412, Main building area A2
+* Room 413-1, Main building area A2
 
 Matu Onliine Programming Platform
 =========================
