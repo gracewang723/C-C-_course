@@ -2,7 +2,9 @@
 Course Introduction
 ************************** 
 
-* **Fall 2019**
+* **Fall 2020**
+
+* Fall 2019
 
 * Fall 2018
 
@@ -28,7 +30,10 @@ Course Instructors
 
 Teaching Assistants
 =========================
-* **Fall 2019**
+* **Fall 2020**
+* Wei-Jia Wang - School of Information and Software, UESTC
+
+* Fall 2019
 * Wei-Jia Wang - School of Information and Software, UESTC
 * Jin-Xia Guo - School of Mathematical Science, UESTC
 * Qi-Ling XU - School of Information and Communication Engineering
